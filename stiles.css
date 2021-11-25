@@ -62,6 +62,7 @@ footer {
 #tituloForm {
   position: top;
   text-align: center;
+  padding: 05px;
   color: white;
   background-color: rgb(95, 60, 60);
   font-size: 30px;
