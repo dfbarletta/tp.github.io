@@ -62,7 +62,7 @@ footer {
 #tituloForm {
   position: top;
   text-align: center;
-  bottom: 0;
+  padding-bottom: 0;
   color: white;
   background-color: rgb(95, 60, 60);
   font-size: 30px;
@@ -115,6 +115,7 @@ footer {
 #tituloMapa {
   position: top;
   text-align: center;
+  padding-bottom: 0;
   color: white;
   background-color: rgb(95, 60, 60);
   font-size: 30px;
