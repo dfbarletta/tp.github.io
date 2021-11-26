@@ -198,6 +198,7 @@ margin: 0 auto;
 
 img {
  width: auto;
+ max-width: 50%;
  heigth: auto;
 }
 
