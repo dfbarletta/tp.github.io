@@ -129,6 +129,11 @@ iframe {
   .row {
     flex-direction: column;
   }
+  img {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
   .cabecera {
     width: 100%;
     height: 100%;
@@ -156,6 +161,11 @@ iframe {
   .menu,
   .row {
     flex-direction: column;
+  }
+   img {
+    width: 100%;
+    height: 100%;
+    display: block;
   }
   .cabecera {
     width: 100%;
