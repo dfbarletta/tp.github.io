@@ -196,6 +196,11 @@ max-width: 960px;
 margin: 0 auto;
 }
 
+img {
+ width: auto;
+ heigth: auto;
+}
+
 #content {
     padding: 20px;
 }
