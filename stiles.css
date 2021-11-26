@@ -198,9 +198,6 @@ margin: 0 auto;
 img {
 width: 100%;
 height: auto;
-display: flex;
-justify-content: center;
-align-items: center;
 }
 
 #content {
