@@ -195,6 +195,7 @@ iframe {
 }
 
 #logoMapa {
+  display: flex;
   position: center;
   float: none;
   width: 40%;
