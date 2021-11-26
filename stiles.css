@@ -192,11 +192,11 @@ iframe {
 
 div.container {
 width: 96%;
-max-width: 960px;
+max-width: 500px;
 margin: 0 auto;
 }
 img {
-width: 50%;
+width: 100%;
 height: auto;
 display: flex;
 justify-content: center;
