@@ -46,15 +46,10 @@ padding: 20px;
 }
 
 footer {
-  grid-area: footer;
-    grid-row-start: footer;
-    grid-column-start: footer;
-    grid-row-end: footer;
-    grid-column-end: footer;
   display:block;
   position: static;
   width: 100%;
-  height: 25px;
+  height: 30px;
   line-height: 1px;
   vertical-align: middle;
   background-color: black;
