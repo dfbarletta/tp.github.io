@@ -132,7 +132,7 @@ iframe {
   img {
     width: 100%;
     height: 100%;
-    display: block;
+    display: flex;
   }
   .cabecera {
     width: 100%;
