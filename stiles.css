@@ -129,9 +129,6 @@ iframe {
   .row {
     flex-direction: column;
   }
-  .menu {
-    left:-100%;
-  }
   img {
     width: auto;
     height: auto;
