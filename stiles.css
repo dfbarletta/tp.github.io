@@ -131,6 +131,7 @@ iframe {
   }
   .menu {
     left:-100%;
+    position: fixed;
   }
   img {
     width: auto;
