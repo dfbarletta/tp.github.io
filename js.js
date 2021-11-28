@@ -14,7 +14,7 @@
     }, false);
 })();
 
-
+$(document).ready(main);
 var contador = 1;
 
 function main() {
@@ -27,7 +27,8 @@ function main() {
         }else{
             contador=1;
            $('.menu').animate({
-              left= '-100'            
+              left= '-100%'            
     });
     }
     });
+};
