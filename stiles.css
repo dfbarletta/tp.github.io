@@ -140,9 +140,10 @@ iframe {
     display: block;
   }
   .cabecera img{
-   width: 100px;
+    width: 80px;
     height: auto;
     display: flex;
+    align: center;
   }
   section nav {
     width: 100%;
