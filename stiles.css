@@ -155,6 +155,11 @@ iframe {
     width: 100%;
     background: #ccc;
   }
+   .article p img{
+display: flex;
+width: auto;
+height: auto;
+}
 }
 
 @media screen and (max-width: 500px) {
@@ -188,6 +193,11 @@ iframe {
     width: 100%;
     background: #ccc;
   }
+  .article p img{
+display: flex;
+width: auto;
+height: auto;
+}
 }
 
 .menu-bar .bt-menu {
