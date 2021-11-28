@@ -220,11 +220,6 @@ display: flex;
   font-size: 20px;
 }
 
-.menu-bar span {
-  float:"right";
-  font-size: 40px;
-}
-
 div.container {
 width: 96%;
 max-width: 960px;
