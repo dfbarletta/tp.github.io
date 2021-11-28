@@ -45,11 +45,6 @@ padding: 20px;
   flex-wrap: wrap;
 }
 
-.row iframe {
-  align:"center";
-  display:"block";
-}
-
 footer {
   display:flex;
   position: static;
