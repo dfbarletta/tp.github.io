@@ -14,7 +14,6 @@
     }, false);
 })();
 
-$(document).ready(main);
 
 var contador = 1;
 
