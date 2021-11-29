@@ -157,11 +157,10 @@ iframe {
     float: none;
     border-bottom: 1px solid blanchedalmond;
   }
-  .menu-bar {
+  /*.menu-bar {
     display: block;
     width: 100%;
-    background: #ccc;
-    cursor: pointer;
+    background: #ccc;*/
   }
    .article p img{
 display: flex;
@@ -207,10 +206,10 @@ display: flex;
     float: none;
     border-bottom: 1px solid blanchedalmond;
   }
-  .menu-bar {
+  /*.menu-bar {
     display: block;
     width: 100%;
-    background: #ccc;
+    background: #ccc;*/
   }
   .article p img{
 display: flex;
