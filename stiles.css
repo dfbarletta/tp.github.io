@@ -136,7 +136,7 @@ iframe {
     opacity: 0;
     visibility: hidden;
   }
-  .menu-bar:hover .menu {
+  .menu-bar:click .menu {
     opacity: 1;
     visibility: visible;
   }
