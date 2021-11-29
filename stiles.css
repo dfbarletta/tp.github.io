@@ -129,12 +129,7 @@ iframe {
   .row {
     flex-direction: column;
   }
-  .menu {
-   width:50%;
-   height:60%;
-   margin:0;
-   position: fixed;
-  }
+  
   img {
     width: auto;
     height: auto;
