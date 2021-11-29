@@ -129,6 +129,17 @@ iframe {
   .row {
     flex-direction: column;
   }
+  .menu {
+    transition: all 0.3s;
+    position: absolute;
+    z-index:1000;
+    opacity: 0;
+    visibility: hidden;
+  }
+  .menu-bar:hover .menu {
+    opacity: 1;
+    visibility: visible;
+  }
   
   img {
     width: auto;
@@ -161,6 +172,7 @@ iframe {
     display: block;
     width: 100%;
     background: #ccc;
+    cursor: pointer;
   }
    .article p img{
 display: flex;
