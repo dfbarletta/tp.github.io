@@ -136,7 +136,9 @@ iframe {
     opacity: 0;
     visibility: hidden;
   }
-  
+  .mostrar {
+    margin-left: 0;
+  }
   img {
     width: auto;
     height: auto;
