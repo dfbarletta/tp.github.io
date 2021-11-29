@@ -136,10 +136,6 @@ iframe {
     opacity: 0;
     visibility: hidden;
   }
-  .menu-bar:click .menu {
-    opacity: 1;
-    visibility: visible;
-  }
   
   img {
     width: auto;
