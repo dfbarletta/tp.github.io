@@ -124,20 +124,22 @@ iframe {
   margin-top: 20px;
 }
 
+.mostrar {
+    margin-left: 0;
+}
+
 @media screen and (max-width: 800px) {
   .menu,
   .row {
     flex-direction: column;
   }
-  .menu {
+  #menu {
     transition: all 0.3s;
     position: absolute;
     z-index:1000;
     opacity: 0;
     visibility: hidden;
-  }
-  .mostrar {
-    margin-left: 0;
+    margin-left:0;
   }
   img {
     width: auto;
