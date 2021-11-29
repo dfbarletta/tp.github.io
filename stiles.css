@@ -17,6 +17,8 @@ section {
 display: block;
 margin: auto;
 padding: 20px;
+max-widht:200px;
+height:auto;
 }
 
 .article h2 {
