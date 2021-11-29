@@ -237,7 +237,7 @@ marggin: auto;
   font-size: 20px;
 }*/
 
-div.container {
+.container {
 width: 96%;
 max-width: 960px;
 margin: auto;
