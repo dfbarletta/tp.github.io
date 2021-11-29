@@ -133,7 +133,7 @@ iframe {
   .row {
     flex-direction: column;
   }
-  #menu {
+  .menu {
     transition: all 0.3s;
     position: absolute;
     z-index:1000;
