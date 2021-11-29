@@ -223,7 +223,7 @@ display: flex;
   }
 }
 
-.menu-bar .bt-menu {
+/*.menu-bar .bt-menu {
   display: block;
   padding: 20px;
   background: grey;
@@ -231,7 +231,7 @@ display: flex;
   text-decoration: none;
   font-weight: bold;
   font-size: 20px;
-}
+}*/
 
 div.container {
 width: 96%;
