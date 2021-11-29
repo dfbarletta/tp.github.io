@@ -240,7 +240,7 @@ marggin: auto;
 div.container {
 width: 96%;
 max-width: 960px;
-margin: 0 auto;
+margin: auto;
 }
 
 #content {
