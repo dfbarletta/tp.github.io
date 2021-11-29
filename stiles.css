@@ -14,7 +14,7 @@ section {
 }
 
 .article p img{
-display: ;flex
+display:flex;
 margin: auto;
 padding: 20px;
 max-widht:400px;
