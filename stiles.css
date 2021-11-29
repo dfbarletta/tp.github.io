@@ -14,10 +14,10 @@ section {
 }
 
 .article p img{
-display: block;
+display: ;flex
 margin: auto;
 padding: 20px;
-max-widht:200px;
+max-widht:400px;
 height:auto;
 }
 
