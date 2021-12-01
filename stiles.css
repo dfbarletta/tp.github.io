@@ -17,8 +17,10 @@ section {
 display:block;
 margin: auto;
 padding: 20px;
-max-widht:60%;
+max-widht:300px;
+max-height: 300px;
 height:auto;
+widht:auto;
 }
 
 .article h2 {
