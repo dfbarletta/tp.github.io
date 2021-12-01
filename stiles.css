@@ -242,8 +242,8 @@ marggin: auto;
 .container {
 width: auto;
 height: auto;
-max-width: 300px;
-max-height: 300px;
+max-width: 600px;
+max-height: 600px;
 margin: auto;
 display: flex;
 }
