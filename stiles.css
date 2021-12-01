@@ -161,6 +161,12 @@ iframe {
     float: none;
     border-bottom: 1px solid blanchedalmond;
   }
+  .menu ul li img {
+  width: auto;
+  height: auto;
+  margin-right: 10px;
+  display: block;
+  }
   /*.menu-bar {
     display: block;
     width: 100%;
