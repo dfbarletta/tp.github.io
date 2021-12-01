@@ -17,7 +17,7 @@ section {
 display: block;
 margin: auto;
 padding: 20px;
-max-widht: 300px;
+max-width: 300px;
 max-height: 300px;
 height: auto;
 widht: auto;
@@ -242,6 +242,8 @@ marggin: auto;
 .container {
 width: auto;
 height: auto;
+max-width: 300px;
+max-height: 300px;
 margin: auto;
 display: flex;
 }
