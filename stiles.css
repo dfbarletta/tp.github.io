@@ -162,8 +162,8 @@ iframe {
     border-bottom: 1px solid blanchedalmond;
   }
   .menu ul li img {
-  width: auto;
-  height: auto;
+  width: 25px;
+  height: 25px;
   margin-right: 10px;
   float: left;
   }
