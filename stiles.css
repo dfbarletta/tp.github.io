@@ -13,11 +13,11 @@ section {
   padding: 20px;
 }
 
-.container img{
-display:flex;
+.container img {
+display:block;
 margin: auto;
 padding: 20px;
-max-widht:400px;
+max-widht:300px;
 height:auto;
 }
 
