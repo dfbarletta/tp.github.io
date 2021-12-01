@@ -14,7 +14,7 @@ section {
 }
 
 .container img {
-display:flex;
+display:block;
 margin: auto;
 padding: 20px;
 max-widht:60%;
