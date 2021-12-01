@@ -240,8 +240,8 @@ marggin: auto;
 }*/
 
 .container {
-width: 96%;
-max-width: 96%;
+width:auto;
+height:auto;
 margin: auto;
 display:flex;
 }
