@@ -157,7 +157,7 @@ iframe {
     position: static;
   }
   .menu ul li {
-    display: block;
+    display: inline-block;;
     float: none;
     border-bottom: 1px solid blanchedalmond;
   }
